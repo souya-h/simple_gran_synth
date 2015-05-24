@@ -38,6 +38,19 @@
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-59",
+					"maxclass" : "comment",
+					"numinlets" : 1,
+					"numoutlets" : 0,
+					"patching_rect" : [ 409.5, 470.0, 150.0, 20.0 ],
+					"presentation_rect" : [ 411.0, 471.0, 0.0, 0.0 ],
+					"style" : "",
+					"text" : "equal pan"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-58",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
@@ -555,7 +568,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 68.0, 403.0, 49.0, 20.0 ],
+					"patching_rect" : [ 286.0, 223.0, 49.0, 20.0 ],
 					"style" : "",
 					"text" : "window"
 				}
